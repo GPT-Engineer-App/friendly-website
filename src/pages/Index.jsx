@@ -15,9 +15,9 @@ const Index = () => {
       <Flex align="center" justify="center" height="70vh" bg="gray.200">
         <VStack spacing={4}>
           <Heading as="h1" size="2xl" textAlign="center">
-            Welcome to Our Website
+            Marketify - Your Ultimate Marketing Solution
           </Heading>
-          <Text fontSize="xl">Building responsive and modern websites with React and Chakra UI.</Text>
+          <Text fontSize="xl">Welcome to Marketify - Your Ultimate Destination for Innovative Marketing Solutions! At Marketify, we are dedicated to revolutionizing the way marketers access, extract, and analyze data in the digital world. Our platform serves as a central hub for information search, gathering, and analysis, empowering marketing teams to make strategic decisions and achieve business success like never before.</Text>
           <Image src="https://images.unsplash.com/photo-1532372320572-cda25653a26d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjB3ZWIlMjBkZXNpZ258ZW58MHx8fHwxNzE1NTQ1MjU0fDA&ixlib=rb-4.0.3&q=80&w=1080" alt="Modern Web Design" boxSize="300px" objectFit="cover" />
         </VStack>
       </Flex>
@@ -25,7 +25,7 @@ const Index = () => {
       {/* Footer */}
       <Box bg="teal.600" color="white" p={4}>
         <Flex justify="center" align="center">
-          <Text fontSize="sm">© 2023 Your Company. All rights reserved.</Text>
+          <Text fontSize="sm">© 2024 Marketify. All rights reserved. Visit us at www.marketify.com</Text>
         </Flex>
       </Box>
     </Container>
